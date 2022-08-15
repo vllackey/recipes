@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e831544c771010100f7a72f969106188</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>service.now</sys_created_by>
+        <sys_created_on>2020-04-15 18:40:35</sys_created_on>
+        <sys_id>e831544c771010100f7a72f969106188</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_bm_client_configuration.sn_bm_client.benchmark_admin</sys_name>
+        <sys_package display_value="Benchmark Client" source="sn_bm_client">3ad18693db92220004997878f0b8f516</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Benchmark Client">3ad18693db92220004997878f0b8f516</sys_scope>
+        <sys_security_acl display_value="sn_bm_client_configuration">03d0504c771010100f7a72f9691061e6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e831544c771010100f7a72f969106188</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 18:40:35</sys_updated_on>
+        <sys_user_role display_value="sn_bm_client.benchmark_admin" name="sn_bm_client.benchmark_admin">b3299f166723220097eeff5557415ab1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:47</sys_created_on>
+        <sys_id>71163a822ff33010e9b9ae6df699b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_bm_client_configuration.sn_bm_client.benchmark_admin</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_71163a822ff33010e9b9ae6df699b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:47</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

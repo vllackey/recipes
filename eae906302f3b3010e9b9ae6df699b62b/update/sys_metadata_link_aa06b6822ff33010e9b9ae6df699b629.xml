@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>541a529a53362010af64ddeeff7b1283</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-12 07:13:20</sys_created_on>
+        <sys_id>541a529a53362010af64ddeeff7b1283</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.data_manager_admin</sys_name>
+        <sys_package display_value="CMDB Data Manager" source="com.snc.cmdb.ci_lifecycle_manager">8d3531fa45193010c0a05206e0e0f8b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="cmdb_policy_type_categories">001a929a53362010af64ddeeff7b12f0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_541a529a53362010af64ddeeff7b1283</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-12 07:13:20</sys_updated_on>
+        <sys_user_role display_value="data_manager_admin" name="data_manager_admin">b156309e53722010af64ddeeff7b1227</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:34</sys_created_on>
+        <sys_id>aa06b6822ff33010e9b9ae6df699b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.data_manager_admin</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_aa06b6822ff33010e9b9ae6df699b629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:34</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>50b995b49312120042cf530b547ffbca</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-03-19 00:29:22</sys_created_on>
+        <sys_id>50b995b49312120042cf530b547ffbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.catalog_manager</sys_name>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">aafd61f245553010c0a05206e0e0f824</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sc_cat_item_guide_items">00b9d5b49312120042cf530b547ffbbe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_50b995b49312120042cf530b547ffbca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-03-19 00:29:22</sys_updated_on>
+        <sys_user_role display_value="catalog_manager" name="catalog_manager">2ea71c5a5f2111001c9b2572f2b4773c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:36</sys_created_on>
+        <sys_id>8f06b6822ff33010e9b9ae6df699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.catalog_manager</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_8f06b6822ff33010e9b9ae6df699b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:36</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

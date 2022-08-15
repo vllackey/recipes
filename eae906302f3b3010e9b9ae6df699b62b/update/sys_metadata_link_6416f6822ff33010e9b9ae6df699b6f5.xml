@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f058c070eb120200e628648d9106fe25</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2015-09-01 22:22:37</sys_created_on>
+        <sys_id>f058c070eb120200e628648d9106fe25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amb_welcome.public</sys_name>
+        <sys_package display_value="Asynchronous Message Bus" source="com.glide.amb">cf2ae17645113010c0a05206e0e0f874</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="amb_welcome">02a40c30eb120200e628648d9106febc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f058c070eb120200e628648d9106fe25</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2015-09-01 22:22:37</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:42</sys_created_on>
+        <sys_id>6416f6822ff33010e9b9ae6df699b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>amb_welcome.public</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_6416f6822ff33010e9b9ae6df699b6f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:42</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

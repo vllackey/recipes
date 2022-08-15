@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_701967_delicious_recipe_table">u_like=yes^EQ<item display_value="Yes" endquery="false" field="u_like" goto="false" newquery="false" operator="=" or="false" value="yes"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	var currentUser = g_user.userName; 
+// Display a message in the Welcome field 
+    g_form.setValue('u_welcome',currentUser + ", Thank you for rating the recipe.");
+    g_form.showFieldMsg('u_welcome','We are so glad that you liked it!','info');
+   }
+]]></script_true>
+        <set_values/>
+        <short_description>Message if user likes the recipe</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 04:44:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e158f1c2f440110e9b9ae6df699b664</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Message if user likes the recipe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_ui_policy_6e158f1c2f440110e9b9ae6df699b664</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 21:22:46</sys_updated_on>
+        <table>x_701967_delicious_recipe_table</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

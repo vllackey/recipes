@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Recipe Table" max_length="40" name="x_701967_delicious_recipe_table" sizeclass="18" type="collection">
+        <element label="Amount 1" mandatory="true" max_length="5" name="amount_1" type="string"/>
+        <element label="Amount 10" max_length="5" name="amount_10" type="string"/>
+        <element label="Amount 11" max_length="5" name="amount_11" type="string"/>
+        <element label="Amount 12" max_length="5" name="amount_12" type="string"/>
+        <element label="Amount 2" mandatory="true" max_length="5" name="amount_2" type="string"/>
+        <element label="Amount 3" max_length="5" name="amount_3" type="string"/>
+        <element label="Amount 4" max_length="5" name="amount_4" type="string"/>
+        <element label="Amount 5" max_length="5" name="amount_5" type="string"/>
+        <element label="Amount 6" max_length="5" name="amount_6" type="string"/>
+        <element label="Amount 7" max_length="5" name="amount_7" type="string"/>
+        <element label="Amount 8" max_length="5" name="amount_8" type="string"/>
+        <element label="Amount 9" max_length="5" name="amount_9" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="appetizers" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Appetizers" value="appetizers"/>
+                <element inactive_on_update="false" label="Breads" value="breads"/>
+                <element inactive_on_update="false" label="Desserts" value="desserts"/>
+                <element inactive_on_update="false" label="Main Dish" value="main_dish"/>
+                <element inactive_on_update="false" label="Salads" value="salads"/>
+                <element inactive_on_update="false" label="Side Dish - Other" value="side_other"/>
+                <element inactive_on_update="false" label="Side Dish - Vegetable" value="side_vegetable"/>
+                <element inactive_on_update="false" label="Soups" value="soups"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="bowl" label="Container" max_length="40" name="container" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bowl" sequence="0" value="bowl"/>
+                <element inactive_on_update="false" label="Cake Pan - round" sequence="1" value="cake_pan_round"/>
+                <element inactive_on_update="false" label="Cake Pan - sheet" sequence="2" value="cake_pan_sheet"/>
+                <element inactive_on_update="false" label="Cake Pan - square" sequence="3" value="cake_pan_square"/>
+                <element inactive_on_update="false" label="Spring Form Pan" sequence="4" value="spring form pan"/>
+                <element inactive_on_update="false" label="Cookie Sheet" sequence="5" value="cookie sheet"/>
+                <element inactive_on_update="false" label="Dish" sequence="6" value="dish"/>
+                <element inactive_on_update="false" label="Pie Pan" sequence="7" value="pie_pan"/>
+                <element inactive_on_update="false" label="Bread Pan" sequence="8" value="bread pan"/>
+                <element inactive_on_update="false" label="Skillet" sequence="9" value="skillet"/>
+                <element inactive_on_update="false" label="Casserole Dish" sequence="10" value="casserole_dish"/>
+                <element inactive_on_update="false" label="Dutch Oven" sequence="11" value="dutch_oven"/>
+                <element inactive_on_update="false" label="Pot" sequence="12" value="pot"/>
+                <element inactive_on_update="false" label="Stock Pot" sequence="13" value="stock_pot"/>
+                <element inactive_on_update="false" label="Crock Pot" sequence="14" value="crock_pot"/>
+                <element inactive_on_update="false" label="InstaPot" sequence="15" value="instapot"/>
+                <element inactive_on_update="false" label="Pressure Cooker" sequence="16" value="pressure cooker"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Container Size" max_length="40" name="container_size" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cook Time" max_length="40" name="cook_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 1" mandatory="true" max_length="100" name="ingredient_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 10 " max_length="100" name="ingredient_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 11" max_length="100" name="ingredient_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 12" max_length="100" name="ingredient_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 2" mandatory="true" max_length="100" name="ingredient_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 3" max_length="100" name="ingredient_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 4" max_length="100" name="ingredient_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 5" max_length="100" name="ingredient_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 6" max_length="100" name="ingredient_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 7" max_length="100" name="ingredient_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 8" max_length="100" name="ingredient_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ingredient 9" max_length="100" name="ingredient_9" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 1" max_length="40" name="measurement_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 10" max_length="40" name="measurement_10" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 11" max_length="40" name="measurement_11" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 12" max_length="40" name="measurement_12" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 2" max_length="40" name="measurement_2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 3" max_length="40" name="measurement_3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 4" max_length="40" name="measurement_4" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 5" max_length="40" name="measurement_5" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 6" max_length="40" name="measurement_6" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 7" max_length="40" name="measurement_7" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tblsp" sequence="7" value="tblsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 8" max_length="40" name="measurement_8" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement 9 " max_length="40" name="measurement_9" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="cup/s" sequence="0" value="cup"/>
+                <element inactive_on_update="false" label="fl oz" sequence="1" value="fl_oz"/>
+                <element inactive_on_update="false" label="gal" sequence="2" value="gal"/>
+                <element inactive_on_update="false" label="lb" sequence="3" value="lb"/>
+                <element inactive_on_update="false" label="oz" sequence="4" value="oz"/>
+                <element inactive_on_update="false" label="pint" sequence="5" value="pint"/>
+                <element inactive_on_update="false" label="quart" sequence="6" value="quart"/>
+                <element inactive_on_update="false" label="Tbsp" sequence="7" value="tbsp"/>
+                <element inactive_on_update="false" label="tsp" sequence="8" value="tsp"/>
+                <element inactive_on_update="false" label="small" sequence="9" value="small"/>
+                <element inactive_on_update="false" label="medium" sequence="10" value="medium"/>
+                <element inactive_on_update="false" label="large" sequence="11" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Recipe Name" mandatory="true" max_length="50" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rating" mandatory="true" max_length="40" name="rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Very Good" sequence="0" value="very_good"/>
+                <element inactive_on_update="false" label="Good" sequence="1" value="good"/>
+                <element inactive_on_update="false" label="Neutral" sequence="2" value="neutral"/>
+                <element inactive_on_update="false" label="Bad" sequence="3" value="bad"/>
+                <element inactive_on_update="false" label="Very Bad" sequence="4" value="very_bad"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Step 1" max_length="4000" name="step_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 10 " max_length="4000" name="step_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 2" max_length="4000" name="step_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 3" max_length="4000" name="step_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 4" max_length="4000" name="step_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 5" max_length="4000" name="step_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 6" max_length="4000" name="step_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 7 " max_length="4000" name="step_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 8" max_length="4000" name="step_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Step 9 " max_length="4000" name="step_9" type="string"/>
+        <element choice="1" label="Submitted By:" max_length="40" name="submitted_by" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Temperature" max_length="40" name="temperature" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Did you like the recipe?" max_length="40" name="u_like" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="_" max_length="40" name="u_sorry" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="Welcome! We hope you enjoy the recipes" label="__" max_length="40" name="u_welcome" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Yield" max_length="40" name="yield" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

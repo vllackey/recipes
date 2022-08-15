@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Recipe Information" name="Recipe Information">b1737e9e2f373010e9b9ae6df699b698</category>
+        <collection>x_701967_delicious_recipe_table</collection>
+        <condition table="x_701967_delicious_recipe_table">rating=very_good^ORrating=good^EQ<item display_value="Very Good" endquery="false" field="rating" goto="false" newquery="false" operator="=" or="false" value="very_good"/>
+            <item display_value="Good" endquery="false" field="rating" goto="false" newquery="false" operator="=" or="true" value="good"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>Notification sends when a new recipe with a very good or good rating is entered.</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Hello,</p>
+<p>&nbsp;A new ${category} recipe has been submitted. It is called ${name} and has a rating of ${rating}.</p>
+<p>Be sure to check it out! We know you will find it delicious.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>New Recipe</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups name="Recipe_Creator">a46e764a2ff33010e9b9ae6df699b62e</recipient_groups>
+        <recipient_users>0eb3857d2ff33010e9b9ae6df699b638,6816f79cc0a8016401c5a33be04be441,6cc642532f773010e9b9ae6df699b674,d51786932f773010e9b9ae6df699b654,27474e932f773010e9b9ae6df699b6aa,11870a932f773010e9b9ae6df699b6d6</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>New Recipe</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 22:16:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0d80b69e2f373010e9b9ae6df699b62a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>New Recipe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sysevent_email_action_0d80b69e2f373010e9b9ae6df699b62a</sys_update_name>
+        <sys_updated_by>lackey.vicky</sys_updated_by>
+        <sys_updated_on>2021-11-19 03:28:08</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

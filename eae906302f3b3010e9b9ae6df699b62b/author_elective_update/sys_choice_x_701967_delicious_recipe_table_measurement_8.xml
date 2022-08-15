@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="measurement_8" table="x_701967_delicious_recipe_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>measurement_8</element>
+            <name>x_701967_delicious_recipe_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_id>941352382f3b3010e9b9ae6df699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>measurement_8</sys_name>
+            <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+            <sys_update_name>sys_choice_x_701967_delicious_recipe_table_measurement_8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 04:05:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>cup/s</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>501352382f3b3010e9b9ae6df699b651</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>cup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>fl oz</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d41352382f3b3010e9b9ae6df699b64e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>fl_oz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>gal</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec1352382f3b3010e9b9ae6df699b658</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>gal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>lb</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e01352382f3b3010e9b9ae6df699b65e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>lb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>oz</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>681352382f3b3010e9b9ae6df699b65b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>oz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>pint</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e81352382f3b3010e9b9ae6df699b653</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>pint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>quart</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>641352382f3b3010e9b9ae6df699b656</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>quart</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tbsp</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c1352382f3b3010e9b9ae6df699b64b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>tbsp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>tsp</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 04:05:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c1352382f3b3010e9b9ae6df699b648</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>tsp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>small</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 19:33:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22dd46922ff33010e9b9ae6df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>small</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>medium</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 19:33:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2dd46922ff33010e9b9ae6df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>medium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>measurement_8</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>large</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-15 19:33:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26dd46922ff33010e9b9ae6df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-15 19:33:27</sys_updated_on>
+            <value>large</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

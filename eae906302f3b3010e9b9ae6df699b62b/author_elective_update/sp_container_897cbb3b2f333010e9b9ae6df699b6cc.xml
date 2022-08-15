@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Recipe Page - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="recipe_page">813c733f2f333010e9b9ae6df699b66b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-20 19:27:34</sys_created_on>
+        <sys_id>897cbb3b2f333010e9b9ae6df699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recipe Page - Container 3</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sp_container_897cbb3b2f333010e9b9ae6df699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-20 19:27:34</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sp_container_897cbb3b2f333010e9b9ae6df699b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Recipe Page - Container 3</name><order>3</order><sp_page display_value="recipe_page">813c733f2f333010e9b9ae6df699b66b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-20 19:27:34</sys_created_on><sys_id>897cbb3b2f333010e9b9ae6df699b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Recipe Page - Container 3</sys_name><sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package><sys_policy/><sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope><sys_update_name>sp_container_897cbb3b2f333010e9b9ae6df699b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-20 19:27:34</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1698946502</payload_hash>
+        <record_name>Recipe Page - Container 3</record_name>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-20 19:27:34</sys_created_on>
+        <sys_id>0d7c3f3f2f333010e9b9ae6df699b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d3ed176960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-20 19:27:34</sys_updated_on>
+        <type>Container</type>
+        <update_guid>457c3f3f7e333010b0dbd62f8d497196</update_guid>
+        <update_guid_history>457c3f3f7e333010b0dbd62f8d497196:-1698946502</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Recipe Page - Container 3">f0dd1f242fc40110e9b9ae6df699b60f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 01:09:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0df6da06fa8b4c2280ebb5268496c164</sys_id>
+        <sys_metadata>897cbb3b2f333010e9b9ae6df699b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recipe Page - Container 3</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sp_container_897cbb3b2f333010e9b9ae6df699b6cc</sys_update_name>
+        <sys_update_version display_value="sp_container_897cbb3b2f333010e9b9ae6df699b6cc">0d7c3f3f2f333010e9b9ae6df699b696</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 01:09:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

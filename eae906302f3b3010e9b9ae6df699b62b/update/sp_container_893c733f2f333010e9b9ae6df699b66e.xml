@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image>510f66f02f400110e9b9ae6df699b6cd</background_image>
+        <background_style>repeat</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Recipe Page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="dr_index">813c733f2f333010e9b9ae6df699b66b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-20 19:26:28</sys_created_on>
+        <sys_id>893c733f2f333010e9b9ae6df699b66e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Recipe Page - Container 1</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sp_container_893c733f2f333010e9b9ae6df699b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 16:23:12</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#685c53</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>background_image</file_name>
+        <hash>03b166b9f9551009b9fd2fc863ae06f08d3e161177dae2ed52fbc3d7c470aa5c</hash>
+        <image_height>250</image_height>
+        <image_width>250</image_width>
+        <size_bytes>3678</size_bytes>
+        <size_compressed>3609</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 16:23:11</sys_created_on>
+        <sys_id>510f66f02f400110e9b9ae6df699b6cd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 16:23:12</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>893c733f2f333010e9b9ae6df699b66e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="510f66f02f400110e9b9ae6df699b6cd">510f66f02f400110e9b9ae6df699b6cd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 16:23:11</sys_created_on>
+        <sys_id>910f66f02f400110e9b9ae6df699b6cd</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4800</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="510f66f02f400110e9b9ae6df699b6cd">510f66f02f400110e9b9ae6df699b6cd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 16:23:11</sys_created_on>
+        <sys_id>150f66f02f400110e9b9ae6df699b6cd</sys_id>
+    </sys_attachment_doc>
+</record_update>

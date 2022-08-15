@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="amount_11" label="Amount 11" language="en" table="x_701967_delicious_recipe_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>amount_11</element>
+            <help/>
+            <hint/>
+            <label>Amount 11</label>
+            <language>en</language>
+            <name>x_701967_delicious_recipe_table</name>
+            <plural>Amount 11s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 06:17:17</sys_created_on>
+            <sys_id>b8417a702fbb3010e9b9ae6df699b627</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Amount 11</sys_name>
+            <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+            <sys_update_name>sys_documentation_x_701967_delicious_recipe_table_amount_11_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 06:17:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

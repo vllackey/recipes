@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>39ca08d7e9900010fa9b6dba53a930a8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 00:22:05</sys_created_on>
+        <sys_id>39ca08d7e9900010fa9b6dba53a930a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.asset</sys_name>
+        <sys_package display_value="Asset Management" source="com.snc.asset_management">5b6de17e45153010c0a05206e0e0f8e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="SAMAjaxUtil">01ca041be9900010fa9b6dba53a930b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_39ca08d7e9900010fa9b6dba53a930a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 00:22:05</sys_updated_on>
+        <sys_user_role display_value="asset" name="asset">bf7dfe64c0a80169002ee4e83aa20d57</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:38</sys_created_on>
+        <sys_id>7706f6822ff33010e9b9ae6df699b61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.asset</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_7706f6822ff33010e9b9ae6df699b61c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:38</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

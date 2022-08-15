@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c2b33442679e10106f023b4717415ac2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 12:25:10</sys_created_on>
+        <sys_id>c2b33442679e10106f023b4717415ac2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.pa_analyst</sys_name>
+        <sys_package display_value="Performance Analytics" source="com.snc.pa">260171fe45953010c0a05206e0e0f815</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="pa_calendars_retention">0383bc02679e10106f023b4717415ad6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c2b33442679e10106f023b4717415ac2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 12:25:10</sys_updated_on>
+        <sys_user_role display_value="pa_analyst" name="pa_analyst">248d01e1b32003007c2dee5f26a8dc0a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:44</sys_created_on>
+        <sys_id>c5163a822ff33010e9b9ae6df699b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.pa_analyst</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_c5163a822ff33010e9b9ae6df699b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:44</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

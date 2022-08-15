@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_701967_delicious_recipe_table">u_like=no^EQ<item display_value="No" endquery="false" field="u_like" goto="false" newquery="false" operator="=" or="false" value="no"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>false</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>110</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+var currentUser = g_user.userName; 
+// Display a message in the Sorry field 
+    g_form.setValue('u_sorry', "We're sorry " + currentUser + " that you didn't like the recipe.");
+    g_form.showFieldMsg('u_sorry','Please try a different one.','info');
+   }
+]]></script_true>
+        <set_values/>
+        <short_description>Sorry field displays if the user doesn't like the recipe</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 06:32:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>102e17902fc40110e9b9ae6df699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sorry field displays if the user doesn't like the recipe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_ui_policy_102e17902fc40110e9b9ae6df699b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 06:32:03</sys_updated_on>
+        <table>x_701967_delicious_recipe_table</table>
+        <ui_type>0</ui_type>
+        <view display_value="ViewRecipe" name="ViewRecipe">ViewRecipe</view>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sys_ui_policy_102e17902fc40110e9b9ae6df699b61b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_701967_delicious_recipe_table"&gt;u_like=no^EQ&lt;item display_value="No" endquery="false" field="u_like" goto="false" newquery="false" operator="=" or="false" value="no"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;110&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+var currentUser = g_user.userName; 
+// Display a message in the Sorry field 
+    g_form.setValue('u_sorry', "We're sorry " + currentUser + " that you didn't like the recipe.");
+    g_form.showFieldMsg('u_sorry','Please try a different one.','info');
+   }
+]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Sorry field displays if the user doesn't like the recipe&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-11-22 06:32:03&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;102e17902fc40110e9b9ae6df699b61b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Sorry field displays if the user doesn't like the recipe&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Delicious Recipe's" source="x_701967_delicious"&gt;eae906302f3b3010e9b9ae6df699b62b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delicious Recipe's"&gt;eae906302f3b3010e9b9ae6df699b62b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_102e17902fc40110e9b9ae6df699b61b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-11-22 06:32:03&lt;/sys_updated_on&gt;&lt;table&gt;x_701967_delicious_recipe_table&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view display_value="ViewRecipe" name="ViewRecipe"&gt;ViewRecipe&lt;/view&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2045154577</payload_hash>
+        <record_name>Sorry field displays if the user doesn't like the recipe</record_name>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 06:32:03</sys_created_on>
+        <sys_id>dc2edb902fc40110e9b9ae6df699b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d46582d520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 06:32:03</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>dc2e179014c40110ded5cd80f905aa1d</update_guid>
+        <update_guid_history>dc2e179014c40110ded5cd80f905aa1d:-2045154577</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 14:45:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>39032506604443a38fb9955dcc1b5421</sys_id>
+        <sys_metadata>102e17902fc40110e9b9ae6df699b61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sorry field displays if the user doesn't like the recipe</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent display_value="Recipe Table">7c035ef42f3b3010e9b9ae6df699b688</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_102e17902fc40110e9b9ae6df699b61b</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_102e17902fc40110e9b9ae6df699b61b">dc2edb902fc40110e9b9ae6df699b610</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 14:45:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

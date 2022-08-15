@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cc062626c322201032dd09c77d40ddeb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 16:27:49</sys_created_on>
+        <sys_id>cc062626c322201032dd09c77d40ddeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_notification_actionable_content.notification_provider_admin</sys_name>
+        <sys_package display_value="Notification Providers" source="com.glide.notification.provider">ba703dfa45953010c0a05206e0e0f89b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_notification_actionable_content">00062626c322201032dd09c77d40dde9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc062626c322201032dd09c77d40ddeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 16:27:49</sys_updated_on>
+        <sys_user_role display_value="notification_provider_admin" name="notification_provider_admin">2f418dd50f0033005605539ac4767e57</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:33</sys_created_on>
+        <sys_id>2e06b6822ff33010e9b9ae6df699b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_notification_actionable_content.notification_provider_admin</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_2e06b6822ff33010e9b9ae6df699b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:33</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

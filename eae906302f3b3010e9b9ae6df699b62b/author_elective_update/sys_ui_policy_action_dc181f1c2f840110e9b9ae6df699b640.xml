@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_welcome</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 06:06:03</sys_created_on>
+        <sys_id>dc181f1c2f840110e9b9ae6df699b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_welcome</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_dc181f1c2f840110e9b9ae6df699b640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 06:06:03</sys_updated_on>
+        <table>x_701967_delicious_recipe_table</table>
+        <ui_policy display_value="Message if the user doesn't like the recipe">c7df87142f840110e9b9ae6df699b68d</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sys_ui_policy_action_dc181f1c2f840110e9b9ae6df699b640</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>u_welcome</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-22 06:06:03</sys_created_on><sys_id>dc181f1c2f840110e9b9ae6df699b640</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_welcome</sys_name><sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package><sys_policy/><sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope><sys_update_name>sys_ui_policy_action_dc181f1c2f840110e9b9ae6df699b640</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-22 06:06:03</sys_updated_on><table>x_701967_delicious_recipe_table</table><ui_policy display_value="Message if the user doesn't like the recipe">c7df87142f840110e9b9ae6df699b68d</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1374525576</payload_hash>
+        <record_name>u_welcome</record_name>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 06:06:04</sys_created_on>
+        <sys_id>ab28d35c2f840110e9b9ae6df699b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d464060ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 06:06:04</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>e328d35c86840110f86d06e57b6d2eb6</update_guid>
+        <update_guid_history>e328d35c86840110f86d06e57b6d2eb6:1374525576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 06:18:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>196b603ec84846828387e13ff785a661</sys_id>
+        <sys_metadata>dc181f1c2f840110e9b9ae6df699b640</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_welcome</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent display_value="">c7df87142f840110e9b9ae6df699b68d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_dc181f1c2f840110e9b9ae6df699b640</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_dc181f1c2f840110e9b9ae6df699b640">ab28d35c2f840110e9b9ae6df699b6b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 06:18:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

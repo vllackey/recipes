@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a36cf33f2f333010e9b9ae6df699b64c</sp_column>
+        <sp_page/>
+        <sp_widget display_value="recipe_icon_link">1ce573682f080110e9b9ae6df699b693</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 02:54:44</sys_created_on>
+        <sys_id>e6f5b3682f080110e9b9ae6df699b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sp_instance_link_e6f5b3682f080110e9b9ae6df699b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 02:54:44</sys_updated_on>
+        <title/>
+        <type>page</type>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=e6f5b3682f080110e9b9ae6df699b6e9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sp_instance_link_e6f5b3682f080110e9b9ae6df699b6e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link"><sp_instance_link action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><kb_article/><kb_category/><kb_topic/><order>1</order><roles/><sc_cat_item/><sc_category/><short_description/><size>md</size><sp_column display_value="2">a36cf33f2f333010e9b9ae6df699b64c</sp_column><sp_page/><sp_widget display_value="recipe_icon_link">1ce573682f080110e9b9ae6df699b693</sp_widget><sys_class_name>sp_instance_link</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-23 02:54:44</sys_created_on><sys_id>e6f5b3682f080110e9b9ae6df699b6e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package><sys_policy/><sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope><sys_update_name>sp_instance_link_e6f5b3682f080110e9b9ae6df699b6e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-23 02:54:44</sys_updated_on><title/><type>page</type><url/><widget_parameters/></sp_instance_link><sys_translated_text action="delete_multiple" query="documentkey=e6f5b3682f080110e9b9ae6df699b6e9"/></record_update>]]></payload>
+        <payload_hash>526669349</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 02:54:44</sys_created_on>
+        <sys_id>2ef5b3682f080110e9b9ae6df699b6eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d4ab791f60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 02:54:44</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>66f5b368d30801104656214e51c5bfeb</update_guid>
+        <update_guid_history>66f5b368d30801104656214e51c5bfeb:526669349</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d628b3e82f080110e9b9ae6df699b653</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 03:04:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>087c9b96d3a541188336554de9abe840</sys_id>
+        <sys_metadata>e6f5b3682f080110e9b9ae6df699b6e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sp_instance_link_e6f5b3682f080110e9b9ae6df699b6e9</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_e6f5b3682f080110e9b9ae6df699b6e9">2ef5b3682f080110e9b9ae6df699b6eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 03:04:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

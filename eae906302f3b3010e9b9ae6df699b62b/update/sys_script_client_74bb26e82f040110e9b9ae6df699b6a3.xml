@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Makes fields read only if the user is not the creator</description>
+        <field>amount_1</field>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Recipe_MakeFieldsReadOnly</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   
+// 	g_form.addInfoMessage(g_user.getFullName());
+// 	g_form.addInfoMessage(g_user.firstName);
+// 	g_form.addInfoMessage(g_user.userID);
+// 	g_form.addInfoMessage("This is the user name" + g_user.userName);
+// 	g_form.addInfoMessage("Testing Testing");
+	var creator = g_form.getValue('sys_created_by');
+	
+// 	g_form.addInfoMessage(creator);
+	
+	
+	if(g_user.userName != creator)
+		{
+			var fields = g_form.getEditableFields();			
+			for (var x = 0; x < fields.length; x++)
+				{
+			g_form.setReadOnly(fields[x], true);	
+				}
+			g_form.setReadOnly('comments', false);
+			g_form.setReadOnly('u_like', false);
+		}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 21:55:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74bb26e82f040110e9b9ae6df699b6a3</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>Recipe_MakeFieldsReadOnly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_script_client_74bb26e82f040110e9b9ae6df699b6a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 00:00:56</sys_updated_on>
+        <table>x_701967_delicious_recipe_table</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view>ViewRecipe</view>
+    </sys_script_client>
+</record_update>

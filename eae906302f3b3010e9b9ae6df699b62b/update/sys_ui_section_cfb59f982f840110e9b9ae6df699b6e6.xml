@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cfb59f982f840110e9b9ae6df699b6e6" sys_domain="global" table="sys_ui_policy" version="3" view="ui_policy_form_view_in_delicious_recipes">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:30</sys_created_on>
+            <sys_id>c1c55fd42f840110e9b9ae6df699b68e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:30</sys_updated_on>
+            <text>UI Policy Form Description</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c1c55fd42f840110e9b9ae6df699b68e</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>c9c5df982f840110e9b9ae6df699b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>41c5df982f840110e9b9ae6df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>c5c5df982f840110e9b9ae6df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>4dc5df982f840110e9b9ae6df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>c1c5df982f840110e9b9ae6df699b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>49c5df982f840110e9b9ae6df699b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_id</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>cdc5df982f840110e9b9ae6df699b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>45c5df982f840110e9b9ae6df699b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>c9c5df982f840110e9b9ae6df699b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:31</sys_created_on>
+            <sys_id>41c5df982f840110e9b9ae6df699b6c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="feb51bd42f840110e9b9ae6df699b681">cfb59f982f840110e9b9ae6df699b6e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_ui_policy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 05:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfb59f982f840110e9b9ae6df699b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_ui_policy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+            <sys_update_name>sys_ui_section_cfb59f982f840110e9b9ae6df699b6e6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 05:55:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="UI Policy Form View in Delicious Recipes" name="ui_policy_form_view_in_delicious_recipes">feb51bd42f840110e9b9ae6df699b681</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

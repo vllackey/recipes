@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>yield</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>lackey.vicky</sys_created_by>
+        <sys_created_on>2021-11-22 03:55:47</sys_created_on>
+        <sys_id>704a32d02f440110e9b9ae6df699b608</sys_id>
+        <sys_mod_count>54</sys_mod_count>
+        <sys_name>yield</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_704a32d02f440110e9b9ae6df699b608</sys_update_name>
+        <sys_updated_by>lackey.vicky</sys_updated_by>
+        <sys_updated_on>2021-11-22 04:04:16</sys_updated_on>
+        <table>x_701967_delicious_recipe_table</table>
+        <ui_policy display_value="sets fields as view only if user is not creator">75ecc65c2f800110e9b9ae6df699b64f</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sys_ui_policy_action_704a32d02f440110e9b9ae6df699b608</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>yield</field><mandatory>false</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>lackey.vicky</sys_created_by><sys_created_on>2021-11-22 03:55:47</sys_created_on><sys_id>704a32d02f440110e9b9ae6df699b608</sys_id><sys_mod_count>54</sys_mod_count><sys_name>yield</sys_name><sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package><sys_policy/><sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope><sys_update_name>sys_ui_policy_action_704a32d02f440110e9b9ae6df699b608</sys_update_name><sys_updated_by>lackey.vicky</sys_updated_by><sys_updated_on>2021-11-22 04:04:16</sys_updated_on><table>x_701967_delicious_recipe_table</table><ui_policy display_value="sets fields as view only if user is not creator">75ecc65c2f800110e9b9ae6df699b64f</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>248301894</payload_hash>
+        <record_name>yield</record_name>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lackey.vicky</sys_created_by>
+        <sys_created_on>2021-11-22 04:04:16</sys_created_on>
+        <sys_id>2f4cfa142f440110e9b9ae6df699b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d45d0def10000001</sys_recorded_at>
+        <sys_updated_by>lackey.vicky</sys_updated_by>
+        <sys_updated_on>2021-11-22 04:04:16</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>674cfa14e64401108717d334f2813323</update_guid>
+        <update_guid_history>674cfa14e64401108717d334f2813323:248301894,8b3c72544b4401105cdccdb515736e29:1880756984,803c72545e440110957bd9a5fc547dac:-975205606,d92c3254224401108ff095557eae3e96:-1441803206,d71c3254aa4401102466b222a3cd7b67:-1908400806,651cfe146b440110747be64197305c7c:1919968890,1b0cbe14a04401108846fcdc0779c5ff:1453371290,b00c7e14ae4401108a3a0194706aece7:986773690,1afbba1456440110942d548015a2495d:520176090,4cfbfa14004401103e348a7fc431489d:53578490,f1eb3e14fd440110cafbb1a834f7fc6e:1143005564,97dbfa1490440110d691a636c7153a99:-413019110,23cb76145b440110c61914ab2a2cc8c0:-628623238,8dcbba144f44011058ddbbe2ef2ff12f:1024637242,83bbf614e544011074b76a89ff6b8ab1:397296308,c5bb7214f44401102696e1030bf55eac:964251510,d2abb61476440110c8148edc625e205e:1531206712,5cab7214814401106b75761515a406a7:2098161914,1a9bf614ea4401104ca1dd961e7ebb1f:-1629850180,689bb614d0440110d3f6c9f094e7db51:-1062894978,6e8bb614aa44011089f0624ee012d127:-495939776,9b7bf214fb4401108d67702c4ee72f1c:71015426,e57b3614d74401102c0be71eb0420ff0:773204058,636b36140e440110964235af29f77881:947536506,a86bb2147444011070aa7cc804dc03f8:-1280632060,795b3214604401108dd25a9c791e42f9:1121868954,fb4b72142f440110aeb37690d0b2cfb1:637970628,2d4b7214a2440110c72bd63bb0cb1672:-792271750,373b3ad063440110cb9279ccc28b44a2:-351198630,0e3bfed0c6440110db3c8f9450beb315:89874490,732bbed0864401103d424637e94107f3:530947610,492b3ed07e44011011d7df6313de682d:972020730,2e1bbed03f440110489a1f8861781a0d:1413093850,681b7ed04b440110df0147c738d83e90:1854166970,430bbad0e2440110ba64ae053189af18:-1999727206,510b7ed0e8440110beeef651f19ed307:-1847587262,53fa3ed0264401105cc362ba3b872aad:-1280632060,85fabad0f9440110bce4b4735a255911:-713676858,9beabad0024401105d47b64ce642a0ee:-1558654086,0eda3ad030440110465820536784c79b:-2143469608,ecdaf6d0bf44011028795208d25c1709:1664989946,9ecaf6d0f7440110fe7f2100799bbb98:-1613020834,b7ba36d01e44011071678044865dc066:1040345178,8abab6d07e440110019680acce5c0255:1740070106,94ba76d0c3440110a721ba4a2026a7cf:1521201722,03aa36d0c04401106da2fb6dbf160e13:1302333338,79aa36d0c44401100d110e05954d640e:1083464954,9caab2d0d2440110533121579de3e99a:864596570,cf9af2d0fa440110947c97cd5a34be9f:645728186,6d9a32d0cc440110a2ef18744dc02376:426859802,4c9a3e90d3440110ece667b3f58016b6:207991418,ad8afa90104401101fc7a9fba7ad39f3:-110737712,408afe909f44011020b51d75ee4cf534:1472867346,717ab2d08d4401107a6010788bc91d79:-1238494892,5b5afe907a440110d28b6e0ca88b732f:-10876966</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 14:48:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0e6f9bfd254744e4b70f675d492fb284</sys_id>
+        <sys_metadata>704a32d02f440110e9b9ae6df699b608</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>yield</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent display_value="">75ecc65c2f800110e9b9ae6df699b64f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_704a32d02f440110e9b9ae6df699b608</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_704a32d02f440110e9b9ae6df699b608">2f4cfa142f440110e9b9ae6df699b623</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 14:48:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Ingredients" section_id="7936f50d2f733010e9b9ae6df699b648" sys_domain="global" table="x_701967_delicious_recipe_table" version="3" view="ViewRecipe">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_1</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_2</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_2</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_2</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_3</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_3</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_3</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_4</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_4</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_4</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_5</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_5</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_5</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_6</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_6</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_6</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_7</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_7</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_7</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_8</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_8</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_8</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_9</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_9</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_9</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_10</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_10</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_10</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_11</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_11</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a736790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_11</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2b36790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>ab36790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_12</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2f36790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>67</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>af36790d2f733010e9b9ae6df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>measurement_12</element>
+            <position>68</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2336790d2f733010e9b9ae6df699b638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>69</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>a336790d2f733010e9b9ae6df699b638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingredient_12</element>
+            <position>70</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:54</sys_created_on>
+            <sys_id>2736790d2f733010e9b9ae6df699b638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ingredients" display_value="Ingredients" name="x_701967_delicious_recipe_table" sys_domain="global" view="ad36b50d2f733010e9b9ae6df699b6f7">7936f50d2f733010e9b9ae6df699b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Ingredients</caption>
+            <header>false</header>
+            <name>x_701967_delicious_recipe_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-11 20:37:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7936f50d2f733010e9b9ae6df699b648</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_701967_delicious_recipe_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+            <sys_update_name>sys_ui_section_7936f50d2f733010e9b9ae6df699b648</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-11 20:37:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ViewRecipe" name="ViewRecipe">ad36b50d2f733010e9b9ae6df699b6f7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

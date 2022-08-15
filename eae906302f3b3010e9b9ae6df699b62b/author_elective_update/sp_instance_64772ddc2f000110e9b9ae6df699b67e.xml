@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a36cf33f2f333010e9b9ae6df699b64c</sp_column>
+        <sp_widget display_value="link-button">abc50de6d702120023c84f80de61036a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-21 21:53:30</sys_created_on>
+        <sys_id>64772ddc2f000110e9b9ae6df699b67e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sp_instance_64772ddc2f000110e9b9ae6df699b67e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 00:54:50</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"href": {
+		"value": "?id=drp_index",
+		"displayValue": "?id=drp_index"
+	},
+	"button_text": {
+		"value": "Press here",
+		"displayValue": "Press here"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=64772ddc2f000110e9b9ae6df699b67e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</application>
+        <file_path/>
+        <instance_id>774c5a08db3c7f00b847ac44d49619a6</instance_id>
+        <instance_name>dev79824</instance_name>
+        <name>sp_instance_64772ddc2f000110e9b9ae6df699b67e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;a36cf33f2f333010e9b9ae6df699b64c&lt;/sp_column&gt;&lt;sp_widget display_value="link-button"&gt;abc50de6d702120023c84f80de61036a&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-11-21 21:53:30&lt;/sys_created_on&gt;&lt;sys_id&gt;64772ddc2f000110e9b9ae6df699b67e&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Delicious Recipe's" source="x_701967_delicious"&gt;eae906302f3b3010e9b9ae6df699b62b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delicious Recipe's"&gt;eae906302f3b3010e9b9ae6df699b62b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_64772ddc2f000110e9b9ae6df699b67e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-11-23 00:54:50&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"href": {
+		"value": "?id=drp_index",
+		"displayValue": "?id=drp_index"
+	},
+	"button_text": {
+		"value": "Press here",
+		"displayValue": "Press here"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=64772ddc2f000110e9b9ae6df699b67e"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1649813025</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>aee906302f3b3010e9b9ae6df699b62d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 00:54:50</sys_created_on>
+        <sys_id>da8a13a02fc40110e9b9ae6df699b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d4a49cd8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 00:54:50</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>168a13a0c2c4011067cbbaadde64c644</update_guid>
+        <update_guid_history>168a13a0c2c4011067cbbaadde64c644:1649813025,967a13a07bc40110c2ef26fbab26c627:-1197265759,9e6be9909f4001102a11c225193e45b4:235834151,e24825106f400110a89311b8fa6dd56f:790582661,4ff7e5dce0000110c7e942c027a79523:466016745,489765dcd80001107f30b7c0cf9a33d4:142182753,28772ddcf20001104311e9227c20ac80:990900943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">91ea97a02fc40110e9b9ae6df699b610</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-23 00:56:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>617473c1796c4288a4d6447a8585aee1</sys_id>
+        <sys_metadata>64772ddc2f000110e9b9ae6df699b67e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_scope_delete display_value="">16344547d812493085e621264149aee4</sys_scope_delete>
+        <sys_update_name>sp_instance_64772ddc2f000110e9b9ae6df699b67e</sys_update_name>
+        <sys_update_version display_value="sp_instance_64772ddc2f000110e9b9ae6df699b67e">da8a13a02fc40110e9b9ae6df699b644</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-23 00:56:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

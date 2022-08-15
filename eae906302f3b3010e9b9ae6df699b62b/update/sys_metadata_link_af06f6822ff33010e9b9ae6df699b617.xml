@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bcc79b630b70030036e62c7885673af2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 21:43:22</sys_created_on>
+        <sys_id>bcc79b630b70030036e62c7885673af2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_templated_snip_note_template.sn_templated_snip.template_snippet_writer</sys_name>
+        <sys_package display_value="Templated Snippets" source="sn_templated_snip">2d3597c80b67320036e62c7885673a43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Templated Snippets">2d3597c80b67320036e62c7885673a43</sys_scope>
+        <sys_security_acl display_value="sn_templated_snip_note_template">01c796430b63320036e62c7885673ac4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bcc79b630b70030036e62c7885673af2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 21:43:22</sys_updated_on>
+        <sys_user_role display_value="sn_templated_snip.template_snippet_writer" name="sn_templated_snip.template_snippet_writer">8ae5d7230b70030036e62c7885673afe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-15 03:50:38</sys_created_on>
+        <sys_id>af06f6822ff33010e9b9ae6df699b617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_templated_snip_note_template.sn_templated_snip.template_snippet_writer</sys_name>
+        <sys_package display_value="Delicious Recipe's" source="x_701967_delicious">eae906302f3b3010e9b9ae6df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delicious Recipe's">eae906302f3b3010e9b9ae6df699b62b</sys_scope>
+        <sys_update_name>sys_metadata_link_af06f6822ff33010e9b9ae6df699b617</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-15 03:50:38</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
